@@ -1,5 +1,4 @@
-# FCC-HTML5CSS
-66 Lines of first 42 challenges
+
 <link href="http://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
 <style>
   .red-text {
